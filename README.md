@@ -9,7 +9,7 @@ I do fullstack web development with Laravel, PHP, Vue.js and JavaScript.
 📚Currently, I'm practicing my Laravel and Vue.js skills and I am learning PHPUnit and TDD.
 
 ## What I am currently working on
-I am working on a web application that allow users to manage their books. Each user can add a book to his wishlist, mark a book as read, etc. This application is built with Laravel and Vue.js
+I am working on a web application that allows users to manage their money. The user add income and outcome and his fixed outcome (such as subscriptions) and the user know how much money he has. This application is built with Laravel and Vue.js.
 
 ## My Skills
 
