@@ -18,7 +18,7 @@ I am working on a web application that allows users to manage their money. The u
 | HTML5      | PHP7     | MySQL    | Docker      | Git              | OOP   |
 | CSS3       | Laravel  |          | Kubernetes  | Github           | MVC   |
 | JavaScript | REST Api |          | PHPUnit     | GitKraken        | BEM   |
-| jQuery     |          |          | Homestead   |                  |       |
+| jQuery     | Composer |          | Homestead   |                  |       |
 | Vue.js     |          |          |             |                  |       |
 | Sass/Scss  |          |          |             |                  |       |
 | Webpack    |          |          |             |                  |       |
