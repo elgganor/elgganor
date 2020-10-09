@@ -20,6 +20,7 @@ I am working on a web application that allows users to manage their money. The u
 | JavaScript | REST Api |          | PHPUnit     | GitKraken        | BEM   |
 | jQuery     | Composer |          | Homestead   |                  |       |
 | Vue.js     |          |          |             |                  |       |
+| Angular    |          |          |             |                  |       |
 | Sass/Scss  |          |          |             |                  |       |
 | Webpack    |          |          |             |                  |       |
 | Gulp       |          |          |             |                  |       |
