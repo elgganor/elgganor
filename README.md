@@ -11,7 +11,7 @@ I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS.
 -->
 
 ## What I am currently working on
-I am working on a web application that allows users to manage their money. The user add income and outcome and his fixed outcome (such as subscriptions) and the user know how much money he has. This application is built with Laravel and Vue.js.
+I am currently working on payiz. A new startup that helps freelancers to get paid for their works.
 
 ## My Skills
 
