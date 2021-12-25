@@ -1,9 +1,9 @@
 # Hi everyone 👋
 
-I am a 23 years old web developer from Paris in France, who loves Backend development. I mainly code with PHP, Laravel and Vue.js, but i'm always learning and open to new challenges. I study programming at [42](https://www.42.fr/), one of the most prestigious programming school.
+I am a 24 years old web developer based in Paris, who loves Backend development. I mainly code JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
 
 ## What I Do
-I do fullstack web development with Laravel, PHP, Vue.js and JavaScript.
+I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS.
 
 <!--
 ## What I am currently learning
@@ -15,22 +15,22 @@ I am working on a web application that allows users to manage their money. The u
 
 ## My Skills
 
-| Frontend   | Backend  | Database | DevOps      | Version Controle | Other | Mobile |
-| ---------- | -------- | -------- | ----------- | ---------------- | ----- | ------ |
-| HTML5      | PHP7     | MySQL    | Docker      | Git              | OOP   | Ionic  |
-| CSS3       | Laravel  | MongoDB  | Kubernetes  | Github           | MVC   |        |
-| JavaScript | REST Api |          | PHPUnit     | GitKraken        | BEM   |        |
-| jQuery     | Composer |          | Homestead   |                  |       |        |
-| Vue.js     |          |          |             |                  |       |        |
-| Angular    |          |          |             |                  |       |        |
-| Sass/Scss  |          |          |             |                  |       |        |
-| Webpack    |          |          |             |                  |       |        |
-| Gulp       |          |          |             |                  |       |        |
-| npm        |          |          |             |                  |       |        |
-| Bootstrap  |          |          |             |                  |       |        |
+| Frontend   | Backend   | Database | DevOps      | Version Controle | Other | Mobile |
+| ---------- | --------  | -------- | ----------- | ---------------- | ----- | ------ |
+| HTML5      | NodeJS    | MySQL    | Docker      | Git              | OOP   | Ionic  |
+| CSS3       | ExpressJS | MongoDB  | Kubernetes  | Github           | MVC   |        |
+| JavaScript | REST Api  |          | PHPUnit     | GitKraken        | BEM   |        |
+| VueJS      | SailsJS   |          | Homestead   | BitBucket        |       |        |
+| NuxtJS     | Laravel   |          | Jest        |                  |       |        |
+| Sass/Scss  | PHP       |          | Mocha       |                  |       |        |
+| Webpack    |           |          | Chai        |                  |       |        |
+| Gulp       |           |          |             |                  |       |        |
+| NPM        |           |          |             |                  |       |        |
+| Bootstrap  |           |          |             |                  |       |        |
+| Tailwind   |           |          |             |                  |       |        |
 
 ## Contact
-📩 <mohamed.rouabehi.pro@gmail.com>
+📩 <hello@mohamed-rouabehi.dev>
 💻 [Github](https://github.com/mrouabeh)
 💼 [Linkedin](https://www.linkedin.com/in/mrouabeh/)
 
