@@ -10,7 +10,7 @@ I'm Mohamed-Younès, a 24 years old fullstack web developer based in Paris, who 
   </a>
 
   <a href="https://twitter.com/elgganor">
-    <img src="![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)" />
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 
   <a href="https://github.com/mrouabeh">
