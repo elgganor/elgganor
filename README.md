@@ -4,6 +4,12 @@
 
 I'm Mohamed-Younès, a 24 years old fullstack web developer based in Paris, who loves entrepreneurship and programming. I mainly code with JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
 
+<div aligne="center">
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrouabeh/)
+  ![Gmail](https://img.shields.io/badge/hello@mohamed-rouabehi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrouabeh)
+</p>
+
 ## 🌴 What I Do
 
 I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS. I also create blog posts about programming, javascript and other development tools. I do love create open source packages in JavaScript that can help the community overcome their problems.
@@ -95,15 +101,6 @@ I am currently reflecrting on creating my own Node.js framework with the typescr
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-## 📫 How to reach me
-
-📩 <hello@mohamed-rouabehi.dev>
-
-💻 [Github](https://github.com/mrouabeh)
-
-💼 [Linkedin](https://www.linkedin.com/in/mrouabeh/)
-
 
 
 
