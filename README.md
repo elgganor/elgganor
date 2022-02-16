@@ -9,6 +9,10 @@ I'm Mohamed-Younès, a 24 years old fullstack web developer based in Paris, who 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="https://twitter.com/elgganor">
+    <img src="![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)" />
+  </a>
+
   <a href="https://github.com/mrouabeh">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
