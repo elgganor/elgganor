@@ -5,7 +5,6 @@
 I'm Mohamed-Younès, a 24 years old fullstack web developer based in Paris, who loves entrepreneurship and programming. I mainly code with JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
 
 <div align="center">
-  ![Gmail](https://img.shields.io/badge/hello@mohamed-rouabehi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrouabeh/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrouabeh)
 </div>
