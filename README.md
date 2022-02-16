@@ -1,3 +1,5 @@
+[![HeaderImage](./IMG_0011.PNG)](https://github.com/mrouabeh)
+
 # Hi everyone 👋
 
 I am a 24 years old web developer based in Paris, who loves Backend development. I mainly code JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
