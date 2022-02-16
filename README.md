@@ -5,10 +5,17 @@
 I'm Mohamed-Younès, a 24 years old fullstack web developer based in Paris, who loves entrepreneurship and programming. I mainly code with JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  
-  <img src="[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrouabeh/)" />
-  <img src="[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrouabeh)" />
+  <a href="https://www.linkedin.com/in/mrouabeh">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mrouabeh">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:hello@mohamed-rouabehi.dev">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ## 🌴 What I Do
@@ -22,7 +29,7 @@ I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS. I also
 
 ## 👨‍💻 What I am currently working on
 
-I am currently reflecrting on creating my own Node.js framework with the typescript and the clean architecture.
+I am currently reflecting on creating my own Node.js framework with the typescript and the clean architecture.
 
 ## 💼  Skills
 
