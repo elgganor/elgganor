@@ -2,22 +2,20 @@
 
 # Hi everyone 👋
 
-I'm Mohamed-Younès, a fullstack web developer based in Paris. 
-
-<!-- I am a 24 years old web developer based in Paris, who loves Backend development. I mainly code JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services. -->
+I'm Mohamed-Younès, a 24 years old fullstack web developer based in Paris, who loves entrepreneurship and programming. I mainly code with JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
 
 ## What I Do
 
-I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS.
+I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS. I also create blog posts about programming, javascript and other development tools. I do love create open source packages in JavaScript that can help the community overcome their problems.
 
 <!--
 ## What I am currently learning
 📚Currently, I'm practicing my Laravel and Vue.js skills and I am learning PHPUnit and TDD.
 -->
 
-<!-- ## What I am currently working on
+## What I am currently working on
 
-I am currently working on payiz. A new startup that helps freelancers to get paid for their works. -->
+I am currently working on payiz. A new startup that helps freelancers to get paid for their works.
 
 ## 💼  Skills
 
