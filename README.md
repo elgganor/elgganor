@@ -23,7 +23,7 @@ I am currently working on payiz. A new startup that helps freelancers to get pai
 
 ### Front End
 
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vue&logoColor=white&color=4AB197)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 | Frontend   | Backend   | Database | DevOps      | Version Controle | Other | Mobile |
 | ---------- | --------  | -------- | ----------- | ---------------- | ----- | ------ |
