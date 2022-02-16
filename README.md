@@ -29,7 +29,7 @@ I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS. I also
 
 ## 👨‍💻 What I am currently working on
 
-I am currently reflecting on creating my own Node.js framework with the typescript and the clean architecture.
+I am currently reflecting on creating my own Node.js framework with typescript and the clean architecture.
 
 ## 💼  Skills
 
@@ -109,7 +109,6 @@ I am currently reflecting on creating my own Node.js framework with the typescri
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
 
 
 <!--
