@@ -2,9 +2,12 @@
 
 # Hi everyone 👋
 
-I am a 24 years old web developer based in Paris, who loves Backend development. I mainly code JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
+I'm Mohamed-Younès, a fullstack web developer based in Paris. 
+
+<!-- I am a 24 years old web developer based in Paris, who loves Backend development. I mainly code JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services. -->
 
 ## What I Do
+
 I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS.
 
 <!--
@@ -12,10 +15,15 @@ I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS.
 📚Currently, I'm practicing my Laravel and Vue.js skills and I am learning PHPUnit and TDD.
 -->
 
-## What I am currently working on
-I am currently working on payiz. A new startup that helps freelancers to get paid for their works.
+<!-- ## What I am currently working on
 
-## My Skills
+I am currently working on payiz. A new startup that helps freelancers to get paid for their works. -->
+
+## 💼  Skills
+
+### Front End
+
+![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vuejs&logoColor=white&color=4AB197)
 
 | Frontend   | Backend   | Database | DevOps      | Version Controle | Other | Mobile |
 | ---------- | --------  | -------- | ----------- | ---------------- | ----- | ------ |
@@ -31,9 +39,12 @@ I am currently working on payiz. A new startup that helps freelancers to get pai
 | Bootstrap  |           |          |             |                  |       |        |
 | Tailwind   |           |          |             |                  |       |        |
 
-## Contact
+## 📫 How to reach me
+
 📩 <hello@mohamed-rouabehi.dev>
+
 💻 [Github](https://github.com/mrouabeh)
+
 💼 [Linkedin](https://www.linkedin.com/in/mrouabeh/)
 
 
