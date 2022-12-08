@@ -2,7 +2,7 @@
 
 # Hi everyone 👋
 
-I'm Mohamed-Younès, a 24 years old fullstack web developer based in Paris, who loves entrepreneurship and programming. I mainly code with JavaScript, NuxtJS, VueJS and NodeJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
+I'm Mohamed-Younès, a 25 years old fullstack web developer based in Paris, who loves entrepreneurship and programming. I mainly code with TypeScript, NuxtJS, VueJS, NodeJS and NestJS, but i'm always learning and open to new challenges. I studied programming at [42](https://www.42.fr/), one of the most prestigious programming school. I am a freelancer who provides web development and web design services.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mrouabeh">
@@ -13,18 +13,14 @@ I'm Mohamed-Younès, a 24 years old fullstack web developer based in Paris, who 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 
-  <a href="https://github.com/mrouabeh">
+  <a href="https://github.com/elgganor">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:hello@mohamed-rouabehi.dev">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ## 🌴 What I Do
 
-I do fullstack web development with JavaScript, VueJS, NuxtJS and NodeJS. I also create blog posts about programming, javascript and other development tools. I do love create open source packages in JavaScript that can help the community overcome their problems.
+I do fullstack web development with TypeScript, VueJS, NuxtJS and NodeJS.
 
 <!--
 ## What I am currently learning
